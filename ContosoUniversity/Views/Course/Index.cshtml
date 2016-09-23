@@ -1,18 +1,18 @@
 ﻿@model IEnumerable<ContosoUniversity.Models.Course>
 
 @{
-    ViewBag.Title = "Courses";
+    ViewBag.Title = "Cursos";
 }
 
-<h2>Courses</h2>
+<h2>Cursos</h2>
 
 <p>
-    @Html.ActionLink("Create New", "Create")
+    @Html.ActionLink("Incluir novo", "Create")
 </p>
 @using (Html.BeginForm())
 {
-    <p>Select Department: @Html.DropDownList("SelectedDepartment","All")   
-    <input type="submit" value="Filter" /></p>
+    <p>Selecione o departamento: @Html.DropDownList("SelectedDepartment","Todos")   
+    <input type="submit" value="Filtrar" /></p>
 }
 <table>
     <tr>

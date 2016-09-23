@@ -1,17 +1,17 @@
 ﻿@model ContosoUniversity.Models.Instructor
 
 @{
-    ViewBag.Title = "Create";
+    ViewBag.Title = "Inclusão";
 }
 
-<h2>Create</h2>
+<h2>Inclusão</h2>
 
 @using (Html.BeginForm()) {
     @Html.AntiForgeryToken()
     @Html.ValidationSummary(true)
 
     <fieldset>
-        <legend>Instructor</legend>
+        <legend>Professor</legend>
 
         <div class="editor-label">
             @Html.LabelFor(model => model.LastName)
@@ -38,13 +38,13 @@
         </div>
 
         <p>
-            <input type="submit" value="Create" />
+            <input type="submit" value="Gravar" />
         </p>
     </fieldset>
 }
 
 <div>
-    @Html.ActionLink("Back to List", "Index")
+    @Html.ActionLink("Voltar", "Index")
 </div>
 
 @section Scripts {

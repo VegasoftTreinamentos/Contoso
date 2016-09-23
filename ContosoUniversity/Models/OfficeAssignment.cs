@@ -9,9 +9,10 @@ namespace ContosoUniversity.Models
       [ForeignKey("Instructor")]
       public int PersonID  { get; set; }
       [StringLength(50)]
-      [Display(Name = "Office Location")]
+      [Display(Name = "Sala de aula")]
       public string Location { get; set; }
 
-      public virtual Instructor Instructor { get; set; }
+        [Display(Name = "Professor")]
+        public virtual Instructor Instructor { get; set; }
    }
 }

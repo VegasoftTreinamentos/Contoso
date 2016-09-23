@@ -12,7 +12,7 @@ namespace ContosoUniversity.Models
 
         [Display(Name = "Disciplinas")]
         public virtual ICollection<Course> Courses { get; set; }
-        [Display(Name = "Sala")]
+        [Display(Name = "Sala de aula")]
         public virtual OfficeAssignment OfficeAssignment { get; set; }
    }
 }

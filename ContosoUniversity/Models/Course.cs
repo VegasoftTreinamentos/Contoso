@@ -7,7 +7,7 @@ namespace ContosoUniversity.Models
    public class Course
    {
       [DatabaseGenerated(DatabaseGeneratedOption.None)]
-      [Display(Name = "Number")]
+      [Display(Name = "Número")]
       public int CourseID { get; set; }
 
       [StringLength(50, MinimumLength = 3)]
@@ -21,8 +21,11 @@ namespace ContosoUniversity.Models
       [Display(Name = "Departamentos")]
       public int DepartmentID { get; set; }
 
-      public virtual Department Department { get; set; }
-      public virtual ICollection<Enrollment> Enrollments { get; set; }
-      public virtual ICollection<Instructor> Instructors { get; set; }
+        [Display(Name = "Departamento")]
+        public virtual Department Department { get; set; }
+        [Display(Name = "Matrículas")]
+        public virtual ICollection<Enrollment> Enrollments { get; set; }
+        [Display(Name = "Professores")]
+        public virtual ICollection<Instructor> Instructors { get; set; }
    }
 }

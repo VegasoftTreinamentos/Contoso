@@ -4,7 +4,7 @@
    ViewBag.Title = "Edit";
 }
 
-<h2>Edit</h2>
+<h2>Alterar</h2>
 
 @using (Html.BeginForm())
 {
@@ -12,7 +12,7 @@
    @Html.ValidationSummary(true)
 
    <fieldset>
-      <legend>Instructor</legend>
+      <legend>Professor</legend>
 
       @Html.HiddenFor(model => model.PersonID )
 
@@ -74,13 +74,13 @@
 </div>
 
       <p>
-         <input type="submit" value="Save" />
+         <input type="submit" value="Gravar" />
       </p>
    </fieldset>
 }
 
 <div>
-   @Html.ActionLink("Back to List", "Index")
+   @Html.ActionLink("Voltar", "Index")
 </div>
 
 @section Scripts {

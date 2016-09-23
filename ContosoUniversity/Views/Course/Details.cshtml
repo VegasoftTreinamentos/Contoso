@@ -4,10 +4,10 @@
    ViewBag.Title = "Details";
 }
 
-<h2>Details</h2>
+<h2>Detalhes</h2>
 
 <fieldset>
-   <legend>Course</legend>
+   <legend>Curso</legend>
 
    <div class="editor-label">
       @Html.LabelFor(model => model.CourseID)
@@ -37,6 +37,6 @@
    </div>
 </fieldset>
 <p>
-   @Html.ActionLink("Edit", "Edit", new { id = Model.CourseID }) |
-    @Html.ActionLink("Back to List", "Index")
+   @Html.ActionLink("Alterar", "Edit", new { id = Model.CourseID }) |
+    @Html.ActionLink("Voltar", "Index")
 </p>

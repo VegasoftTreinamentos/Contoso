@@ -4,7 +4,7 @@
    ViewBag.Title = "Edit";
 }
 
-<h2>Edit</h2>
+<h2>Alterar</h2>
 
 @using (Html.BeginForm())
 {
@@ -12,7 +12,7 @@
    @Html.ValidationSummary(true)
 
    <fieldset>
-      <legend>Course</legend>
+      <legend>Curso</legend>
 
       @Html.HiddenFor(model => model.CourseID)
 
@@ -40,7 +40,7 @@
       </div>
 
       <div class="editor-label">
-         @Html.LabelFor(model => model.DepartmentID, "Department")
+         @Html.LabelFor(model => model.DepartmentID, "Departmentos")
       </div>
       <div class="editor-field">
          @Html.DropDownList("DepartmentID", String.Empty)
@@ -48,13 +48,13 @@
       </div>
 
       <p>
-         <input type="submit" value="Save" />
+         <input type="submit" value="Gravar" />
       </p>
    </fieldset>
 }
 
 <div>
-   @Html.ActionLink("Back to List", "Index")
+   @Html.ActionLink("Voltar", "Index")
 </div>
 
 @section Scripts {
