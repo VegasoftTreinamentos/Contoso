@@ -1,0 +1,196 @@
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\ContosoUniversity.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\DotNetOpenAuth.AspNet.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\DotNetOpenAuth.Core.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\DotNetOpenAuth.OAuth.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\DotNetOpenAuth.OpenId.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\EntityFramework.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\Microsoft.Data.Edm.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\Microsoft.Data.OData.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\PagedList.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Net.Http.Formatting.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Spatial.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Web.Http.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Web.Http.OData.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Web.Http.WebHost.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Web.Razor.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\WebGrease.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\WebMatrix.Data.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\WebMatrix.WebData.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\Org.Mentalis.Security.Cryptography.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\Mono.Math.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\PagedList.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\EntityFramework.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Net.Http.Formatting.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Web.Http.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Web.Http.WebHost.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Web.Razor.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\WebMatrix.Data.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\WebMatrix.WebData.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\DotNetOpenAuth.AspNet.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\DotNetOpenAuth.Core.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\DotNetOpenAuth.OAuth.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\DotNetOpenAuth.OpenId.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Web.Http.OData.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\Microsoft.Data.Edm.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\Microsoft.Data.OData.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\System.Spatial.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\Org.Mentalis.Security.Cryptography.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\Mono.Math.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\de\Microsoft.Data.Edm.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\es\Microsoft.Data.Edm.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\it\Microsoft.Data.Edm.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\de\Microsoft.Data.OData.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\es\Microsoft.Data.OData.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\fr\Microsoft.Data.OData.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\it\Microsoft.Data.OData.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\ja\Microsoft.Data.OData.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\ko\Microsoft.Data.OData.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\ru\Microsoft.Data.OData.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\de\System.Spatial.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\es\System.Spatial.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\fr\System.Spatial.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\it\System.Spatial.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\ja\System.Spatial.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\ko\System.Spatial.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\ru\System.Spatial.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\zh-Hans\System.Spatial.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\zh-Hant\System.Spatial.resources.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.inicial.resources
+C:\lab\Getting Started with Entity Framework 5 using MVC 4\C#\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+C:\dev\Contoso\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\dev\Contoso\ContosoUniversity\bin\ContosoUniversity.dll
+C:\dev\Contoso\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\dev\Contoso\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\dev\Contoso\ContosoUniversity\bin\DotNetOpenAuth.AspNet.dll
+C:\dev\Contoso\ContosoUniversity\bin\DotNetOpenAuth.Core.dll
+C:\dev\Contoso\ContosoUniversity\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\dev\Contoso\ContosoUniversity\bin\DotNetOpenAuth.OAuth.dll
+C:\dev\Contoso\ContosoUniversity\bin\DotNetOpenAuth.OpenId.dll
+C:\dev\Contoso\ContosoUniversity\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\dev\Contoso\ContosoUniversity\bin\EntityFramework.dll
+C:\dev\Contoso\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\dev\Contoso\ContosoUniversity\bin\Microsoft.Data.Edm.dll
+C:\dev\Contoso\ContosoUniversity\bin\Microsoft.Data.OData.dll
+C:\dev\Contoso\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\dev\Contoso\ContosoUniversity\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\dev\Contoso\ContosoUniversity\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\dev\Contoso\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\dev\Contoso\ContosoUniversity\bin\PagedList.dll
+C:\dev\Contoso\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\dev\Contoso\ContosoUniversity\bin\System.Net.Http.Formatting.dll
+C:\dev\Contoso\ContosoUniversity\bin\System.Spatial.dll
+C:\dev\Contoso\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\dev\Contoso\ContosoUniversity\bin\System.Web.Http.dll
+C:\dev\Contoso\ContosoUniversity\bin\System.Web.Http.OData.dll
+C:\dev\Contoso\ContosoUniversity\bin\System.Web.Http.WebHost.dll
+C:\dev\Contoso\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\dev\Contoso\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\dev\Contoso\ContosoUniversity\bin\System.Web.Razor.dll
+C:\dev\Contoso\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\dev\Contoso\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\dev\Contoso\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\dev\Contoso\ContosoUniversity\bin\WebGrease.dll
+C:\dev\Contoso\ContosoUniversity\bin\WebMatrix.Data.dll
+C:\dev\Contoso\ContosoUniversity\bin\WebMatrix.WebData.dll
+C:\dev\Contoso\ContosoUniversity\bin\Org.Mentalis.Security.Cryptography.dll
+C:\dev\Contoso\ContosoUniversity\bin\Mono.Math.dll
+C:\dev\Contoso\ContosoUniversity\bin\EntityFramework.xml
+C:\dev\Contoso\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\dev\Contoso\ContosoUniversity\bin\PagedList.xml
+C:\dev\Contoso\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\dev\Contoso\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\dev\Contoso\ContosoUniversity\bin\System.Net.Http.Formatting.xml
+C:\dev\Contoso\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\dev\Contoso\ContosoUniversity\bin\System.Web.Http.xml
+C:\dev\Contoso\ContosoUniversity\bin\System.Web.Http.WebHost.xml
+C:\dev\Contoso\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\dev\Contoso\ContosoUniversity\bin\System.Web.Razor.xml
+C:\dev\Contoso\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\dev\Contoso\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\dev\Contoso\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\dev\Contoso\ContosoUniversity\bin\WebMatrix.Data.xml
+C:\dev\Contoso\ContosoUniversity\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\dev\Contoso\ContosoUniversity\bin\WebMatrix.WebData.xml
+C:\dev\Contoso\ContosoUniversity\bin\DotNetOpenAuth.AspNet.xml
+C:\dev\Contoso\ContosoUniversity\bin\DotNetOpenAuth.Core.xml
+C:\dev\Contoso\ContosoUniversity\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\dev\Contoso\ContosoUniversity\bin\DotNetOpenAuth.OAuth.xml
+C:\dev\Contoso\ContosoUniversity\bin\DotNetOpenAuth.OpenId.xml
+C:\dev\Contoso\ContosoUniversity\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\dev\Contoso\ContosoUniversity\bin\System.Web.Http.OData.xml
+C:\dev\Contoso\ContosoUniversity\bin\Microsoft.Data.Edm.xml
+C:\dev\Contoso\ContosoUniversity\bin\Microsoft.Data.OData.xml
+C:\dev\Contoso\ContosoUniversity\bin\System.Spatial.xml
+C:\dev\Contoso\ContosoUniversity\bin\Org.Mentalis.Security.Cryptography.xml
+C:\dev\Contoso\ContosoUniversity\bin\Mono.Math.xml
+C:\dev\Contoso\ContosoUniversity\bin\de\Microsoft.Data.Edm.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\es\Microsoft.Data.Edm.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\it\Microsoft.Data.Edm.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\de\Microsoft.Data.OData.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\es\Microsoft.Data.OData.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\fr\Microsoft.Data.OData.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\it\Microsoft.Data.OData.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\ja\Microsoft.Data.OData.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\ko\Microsoft.Data.OData.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\ru\Microsoft.Data.OData.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\de\System.Spatial.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\es\System.Spatial.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\fr\System.Spatial.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\it\System.Spatial.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\ja\System.Spatial.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\ko\System.Spatial.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\ru\System.Spatial.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\zh-Hans\System.Spatial.resources.dll
+C:\dev\Contoso\ContosoUniversity\bin\zh-Hant\System.Spatial.resources.dll
+C:\dev\Contoso\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\dev\Contoso\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.inicial.resources
+C:\dev\Contoso\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+C:\dev\Contoso\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\dev\Contoso\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
